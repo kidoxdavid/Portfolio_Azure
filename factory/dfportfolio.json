@@ -1,0 +1,9 @@
+{
+	"name": "dfportfolio",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b53ad0d4-ebca-4ab6-b21c-1fc4b8a70020",
+		"tenantId": "bfe2e648-57f6-465e-8e4d-2fca92860a88"
+	}
+}
