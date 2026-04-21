@@ -5,8 +5,6 @@
 			{
 				"name": "AzureSQLtoLake",
 				"type": "Copy",
-				"state": "Inactive",
-				"onInactiveMarkAs": "Succeeded",
 				"dependsOn": [
 					{
 						"activity": "Last_cdc",
