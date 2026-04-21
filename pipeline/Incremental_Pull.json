@@ -72,7 +72,7 @@
 							"container": "bronze",
 							"folder": "Users",
 							"file": {
-								"value": "@concat(pipeline().parameters.table, '_',variables('current'))",
+								"value": "@concat(pipeline().parameters.table,'_',variables('current'))",
 								"type": "Expression"
 							}
 						}
